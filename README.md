@@ -1,4 +1,4 @@
-##Week 1: Setup and Hello World
+## Week 1: Setup and Hello World
 Overview
 
 This repository contains the projects completed during Week 1 of my mobile app development internship. The week focused on setting up the development environment, understanding the basic structure of Android applications, and learning to work with UI components and layouts.
@@ -9,7 +9,7 @@ Hello World App – A simple application to test the development setup and under
 
 Personal Info App – A mini-project that displays the user’s name, photo, and contact details, demonstrating the use of basic UI elements and layout design.
 
-##Key Features
+## Key Features
 
 Environment Setup: Installation and configuration of Android Studio, SDKs, and emulator/device testing.
 
@@ -44,11 +44,11 @@ Open the project in Android Studio.
 
 Build and run the app on an emulator or connected Android device.
 
-##Purpose
+## Purpose
 
 These projects serve as an introduction to mobile app development, focusing on basic app creation, UI design, and testing. They lay the foundation for more advanced app development tasks in the upcoming weeks.
 
-##Screenshots
+## Screenshots
 
 
 <img width="680" height="1200" alt="Screenshot_20251007_173207" src="https://github.com/user-attachments/assets/3fdc5ebb-3dc0-4e2a-947e-6ca45bc703c5" />
