@@ -50,7 +50,7 @@ These projects serve as an introduction to mobile app development, focusing on b
 
 Screenshots
 
-C:\Users\pallavi\Desktop\Screenshot_20251007_173207.png
+![image](C:\Users\pallavi\Desktop\Screenshot_20251007_173207.png)
 
 License
 
