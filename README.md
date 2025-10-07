@@ -49,7 +49,7 @@ Purpose
 These projects serve as an introduction to mobile app development, focusing on basic app creation, UI design, and testing. They lay the foundation for more advanced app development tasks in the upcoming weeks.
 
 Screenshots
-<img width="1080" height="2400" alt="Screenshot_20251007_173207" src="https://github.com/user-attachments/assets/3fdc5ebb-3dc0-4e2a-947e-6ca45bc703c5" />
+<img width="680" height="1200" alt="Screenshot_20251007_173207" src="https://github.com/user-attachments/assets/3fdc5ebb-3dc0-4e2a-947e-6ca45bc703c5" />
 
 
 License
